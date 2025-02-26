@@ -33,5 +33,6 @@
             <img src="illustration.png" alt="Students Illustration" class="illustration">
         </div> -->
     </div>
+    <meta http-equiv="refresh" content="1 url=inc/login.php">
 </body>
 </html>
